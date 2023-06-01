@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dluks
+ *
+ */
+module chess {
+}
